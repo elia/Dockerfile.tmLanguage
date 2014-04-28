@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ryvn@fpuvgb.zr</string>
+	<key>contactName</key>
+	<string>Elia Schito</string>
+	<key>description</key>
+	<string>Bundle for Docker.</string>
+	<key>name</key>
+	<string>Docker</string>
+	<key>uuid</key>
+	<string>FB7273DF-371E-4F6E-B7FE-89ECA96FF6E3</string>
+</dict>
+</plist>
